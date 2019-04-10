@@ -60,13 +60,13 @@ typings/
 # dotenv environment variables file
 .env
 
-build
-dist
+# build
+# dist
 temp
 .DS_Store
 .idea
 demos/assets/screenshots
-lib
+# lib
 
 *.sw*
 *.un~
